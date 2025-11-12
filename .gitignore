@@ -1,3 +1,7 @@
-gpuenv/ComputerVision/archive.zip
-ComputerVision/
-ComputerVision/archive.zip
+/ComputerVision/archive.zip
+/ComputerVision/DL_Data_Sets/
+/ComputerVision/logs/
+/gpuenv/
+
+__pycache__/
+*.pyc
