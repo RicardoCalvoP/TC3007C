@@ -4,5 +4,9 @@
 /ComputerVision/logs/
 /gpuenv/
 
+/NaturalLanguageProcessing\glove.6B
+
 __pycache__/
 *.pyc
+
+.env
